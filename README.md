@@ -20,13 +20,20 @@ Sensors & Cameras → Perception → Object Detection → Decision Making → Pa
 <img width="844" height="844" alt="image" src="https://github.com/user-attachments/assets/906049ad-7cc7-4751-97ea-cdbea5320758" />
 
 # AI TECHNOLOGIES USED
-•	Machine Learning (ML) – Learns driving patterns from large amounts of data
+•	Machine Learning (ML) – Learns driving patterns from large amounts of data. 
+
 •	Deep Learning (DL) – Recognizes objects, roads, traffic signs, and pedestrians. 
+
 •	Computer Vision – Understands images and video captured by cameras. 
+
 •	Natural Language Processing (NLP) – Supports voice-based interaction with passengers. 
+
 •	Sensor Fusion – Combines information from cameras, LiDAR, radar, and other sensors. 
+
 •	Reinforcement Learning – Helps improve decision-making through learning from actions and outcomes. 
+
 •	Path Planning Algorithms – Determines safe and efficient driving paths. 
+
 # CHARACTERISTICS
 1.	Autonomous Driving :Performs driving tasks with minimal human intervention. 
 2.	Object Detection : Detects vehicles, pedestrians, cyclists, and obstacles. 
